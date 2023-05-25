@@ -16,7 +16,10 @@ public class Demo {
         return x >y ? x : y;
     }
 
+    public  int smallestNum(){
 
+        return x<y? x : y;
+    }
 
 
 }
