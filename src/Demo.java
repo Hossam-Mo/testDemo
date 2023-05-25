@@ -21,5 +21,9 @@ public class Demo {
         return x<y? x : y;
     }
 
+    public  boolean isEqual(){
+        return  x == y;
+    }
+
 
 }
